@@ -32,13 +32,13 @@ if __name__ == '__main__':
 	plan = Plan()
 	
 	# define the first point
-	add_point(plan, -0.5, -0.133, 0.4, 3.14, 0.0, 1.57)
+	add_point(plan, -0.5, -0.133, 0.5, 3.14, 0.0, 1.57)
 	
 	# define the second point
 	add_point(plan, -0.5, -0.133, 0.0, 3.14, 0.0, 1.57)
 	
 	# define the third point
-	add_point(plan, -0.5, -0.5, 0.4, 3.14, 0.0, 1.57)
+	add_point(plan, -0.5, -0.5, 0.5, 3.14, 0.0, 1.57)
 	
 	# define the fourth point
 	add_point(plan, -0.5, -0.5, 0.0, 3.14, 0.0, 1.57)
